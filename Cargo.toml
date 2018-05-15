@@ -1,0 +1,6 @@
+[package]
+name = "enthunter"
+version = "0.1.0"
+authors = ["Solra Bizna <solra@bizna.name>"]
+
+[dependencies]
